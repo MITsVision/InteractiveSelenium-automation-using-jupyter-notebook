@@ -6,8 +6,9 @@ Automated testing is one of the essential and tedious part of software developme
 Jupyter notebook is most popular package which widly adopted in data science community because of it's interactive nature, bringing this for developing automatated test script will make life of automation engineers fairly easy. Automation using selenium lacks the interaction with browser while developing it, you can only see the output of the script after completly developing it {output can not be verified every next step while developing}. I propose a very interactive method for developing automated test script, scripts can be verified while developing it. Combined uses of jupyter notebook and selenium will enable to develop test script on real time. Selenium driver will be available for interaction in the jupyter environment which will enables developer to find the xpaths of the elements and then perform the actions simultaneously.
 
 ## Prerequisites
- - Basics of python
- - Understanding the use cases and terminologies of chatbot development
+ - Python basics
+ - Basics selenium
+ - Basics of jupyter notebook
  ## Environment
   - Python
   - Jupyter Notebook
